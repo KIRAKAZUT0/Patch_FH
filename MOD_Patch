@@ -1,0 +1,7 @@
+Etape à suite :
+-> Création d'un patch sans dossier parent
+-> Utiliser un logiciel pour créer ce patch en gardant la version initiale du launcher !!
+Le patch sera créer en fonction de celle ci. Le patch incluera l'intégralité des patch qui suit celle du launcher.
+-> Le dossier du jeu doit être dans le dossier parent du launcher (au même endroit que le game.exe du launcher)
+/!\ Le nom du dossier est celui qui est mis dans la "projet" /plugin du launcher. Si le nom ne correspond pas le chemin n'est pas bon.
+Il faut donc garder la version démo launcher de coté.
